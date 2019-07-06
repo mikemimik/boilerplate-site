@@ -22,6 +22,18 @@
     "redux",
     "boilerplate"
   ],
-  "dependencies": {},
-  "devDependencies": {}
+  "dependencies": {
+    "prop-types": "^15.7.2",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-router-dom": "^5.0.1"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.0.2",
+    "eslint": "^6.0.1",
+    "eslint-config-semistandard-react": "^4.2.0",
+    "eslint-plugin-semistandard-react": "^4.1.0",
+    "webpack": "^4.35.2",
+    "webpack-cli": "^3.3.5"
+  }
 }
