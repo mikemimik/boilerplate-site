@@ -6,11 +6,22 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:mikemimik/boilerplate-site.git"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/mikemimik/boilerplate-site",
+  "author": {
+    "name": "Michael Perrotte",
+    "url": "https://github.com/mikemimik",
+    "email": "mike@mikecorp.ca"
+  },
   "keywords": [
     "react",
     "redux",
     "boilerplate"
   ],
-  "author": "Michael Perrotte",
-  "license": "MIT"
+  "dependencies": {},
+  "devDependencies": {}
 }
